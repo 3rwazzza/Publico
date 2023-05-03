@@ -6,6 +6,6 @@ public class Cuadrado extends Rectángulo{
 
 public Cuadrado (double x, double y, Color color, double lado){
 	
-super (x, y, bol, lado, lado);
+super (x, y, color, lado, lado);
 }
 }
